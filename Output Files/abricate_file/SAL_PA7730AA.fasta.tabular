@@ -1,0 +1,5 @@
+	#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+0	SAL_PA7730AA.fasta.fasta	NODE_22_length_42368_cov_28.2979	35277	36137	-	blaTEM-1B_1	1-861/861	===============	0/0	100.0	100.0	resfinder	AY458016	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin
+1	SAL_PA7730AA.fasta.fasta	NODE_25_length_18589_cov_17.4435	893	2139	+	tet(A)_6	1-1247/1275	===============	0/0	97.8	100.0	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+2	SAL_PA7730AA.fasta.fasta	NODE_27_length_8667_cov_16.1192	7704	8519	-	sul2_2	1-816/816	===============	0/0	100.0	100.0	resfinder	AY034138	sul2	Sulfamethoxazole
+3	SAL_PA7730AA.fasta.fasta	NODE_5_length_328021_cov_9.25108	74128	74565	+	aac(6')-Iaa_1	1-438/438	===============	0/0	100.0	96.35	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin

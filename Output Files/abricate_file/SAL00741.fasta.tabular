@@ -1,0 +1,6 @@
+	#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+0	SAL00741.fasta.fasta	NODE_26_length_11145_cov_77.526525	107	943	-	aph(6)-Id_1	1-837/837	===============	0/0	100.0	99.88	resfinder	M28829	aph(6)-Id	Streptomycin
+1	SAL00741.fasta.fasta	NODE_26_length_11145_cov_77.526525	943	1746	-	aph(3'')-Ib_5	1-804/804	===============	0/0	100.0	100.0	resfinder	AF321551	aph(3'')-Ib	Streptomycin
+2	SAL00741.fasta.fasta	NODE_26_length_11145_cov_77.526525	1807	2622	-	sul2_2	1-816/816	===============	0/0	100.0	100.0	resfinder	AY034138	sul2	Sulfamethoxazole
+3	SAL00741.fasta.fasta	NODE_26_length_11145_cov_77.526525	8589	9835	-	tet(A)_6	1-1247/1275	===============	0/0	97.8	99.92	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+4	SAL00741.fasta.fasta	NODE_5_length_377865_cov_3.489396	253430	253867	-	aac(6')-Iaa_1	1-438/438	===============	0/0	100.0	96.35	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
