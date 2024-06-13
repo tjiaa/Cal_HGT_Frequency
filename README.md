@@ -1,4 +1,4 @@
-# SG_Analyse-code
+# Cal_HGT_Frequency
 Author: Chenghao Jia
 
 Email: 22017118@zju.edu.cn
