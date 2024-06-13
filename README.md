@@ -18,7 +18,9 @@ You can download this script from github via git clone and use pip to install th
 4. shutil
 
 Data preparation：
-The script requires the following inputs: complete sequencing data (.fasta) for the different groups, and resistance gene testing results (.txt) from ResFinder or RGI.
+The script requires the following inputs: complete sequencing data (.fasta) for the different groups, and resistance gene testing results (.tabular) from ResFinder or RGI.
+
+Important: While the current example uses abricate result as input, if you use RGI pipeline, user need to modify the key fields in the script for identification.
 
 Run:
 
@@ -26,3 +28,6 @@ You can call the script from within VS Code. The parameters that need to be modi
 1. work_path：Your Working Directory
 2. ARG_name: Name of ARG
 3. inputname: Directory name of the fasta file
+
+Also the parameters that need to be modified in blastn.sh include：
+1. Working Directory
