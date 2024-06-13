@@ -1,0 +1,5 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+SAL_PA7970AA.fasta	NODE_17_length_42400_cov_26.0168	9354	9827	+	dfrA17_1	1-474/474	===============	0/0	100.00	100.00	resfinder	FJ460238	dfrA17	Trimethoprim
+SAL_PA7970AA.fasta	NODE_17_length_42400_cov_26.0168	10371	11237	+	sul1_5	1-867/867	===============	0/0	100.00	99.89	resfinder	EU780013	sul1	Sulfamethoxazole
+SAL_PA7970AA.fasta	NODE_17_length_42400_cov_26.0168	31550	32796	+	tet(A)_6	1-1247/1275	===============	0/0	97.80	99.36	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+SAL_PA7970AA.fasta	NODE_1_length_1017920_cov_10.0125	249696	250133	-	aac(6')-Iaa_1	1-438/438	===============	0/0	100.00	96.35	resfinder	NC_003197	aac(6')-Iaa	Amikacin;Tobramycin
