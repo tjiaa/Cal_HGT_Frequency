@@ -5,7 +5,7 @@ Email: 22017118@zju.edu.cn
 
 institute: Department of Veterinary Medicine, Zhejiang University College of Animal Sciences, Hangzhou 310058, China
 
-The program was specifically designed to assess the frequency of horizontal transfer of antimicrobial-resistant genes within groups. HGT events involving ARGs were defined as instances where ARGs exhibited perfect identity (100% coverage and over 99% identity) as described in this article DOI: 10.1093/ismejo/wrad032
+The program was specifically designed to assess the frequency of horizontal transfer of antimicrobial-resistant genes within groups. HGT events involving ARGs were defined as instances where ARGs exhibited perfect identity (100% coverage and 100% identity). The pipeline idea was inspired by the article DOI: 10.1093/ismejo/wrad032.
 
 Install:
 
