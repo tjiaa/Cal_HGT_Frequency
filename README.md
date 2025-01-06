@@ -41,3 +41,7 @@ You can call the script from within VS Code. The parameters that need to be modi
 
 Also the parameters that need to be modified in blastn.sh include：
 1. Working Directory
+
+
+Note： 
+Considering that ARGs located on the chromosome and carried by mobile genetic elements, such as integrons and transposons, may introduce computational errors, we recommend evaluating the number of ARGs carried by these mobile elements on the chromosome during your analysis. If a majority of ARGs in your dataset are found to fall into this category, we suggest using additional methods to assess HGT in order to systematically control for vertical evolution (e.g., Gubbins). Additionally, by modifying the "eLife_MGE_ARG_Co_location.ipynb" script’s MGE_start and MGE_end parameters, you can assess the distance between different ARGs and integrons or transposons on the chromosome, which will help evaluate the impact of factors such as linkage disequilibrium in the genetic process.
